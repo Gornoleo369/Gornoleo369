@@ -3,9 +3,6 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/Gornoleo369/Gornoleo369/blob/main/%20Orange%20Geometric%20Technology%20LinkedIn%20Banner.png" width="800"/>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=orange)](https://www.linkedin.com/jorgenoesantaolalla/)
-
-![](https://komarev.com/ghpvc/?username=JorgeNoéSantaOlalla&color=orange&style=flat-square)
   
 </div>
 
