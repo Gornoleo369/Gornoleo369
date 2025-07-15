@@ -1,7 +1,7 @@
 ## Hi i'm a Bachelor Administration and Data Analyst 
 
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/Gornoleo369/Gornoleo369/blob/main/%20Orange%20Geometric%20Technology%20LinkedIn%20Banner.png" width="800"/>
+  
 
   
 </div>
