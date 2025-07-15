@@ -16,7 +16,7 @@
 Disfruto mucho del surf en el mundo tech y entusiasta de comenzar mi carrera profesional como Data Analyst <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 * :telescope: Actualmente estoy en la parte final de mi curso de Data Analyst en el BootCamp TripleTen, ansioso de poder aplicar mis nuevos conocimientos que se complementan con mi titulo de Administrador. :muscle:
 
-* :seedling: Actualmente estoy practicando con python en vsCode :orange_book: y ya he realizado proyectos con :computer: lenguaje SQL y Python, utilizando la libreria matplotlib, pandas, numpy , tambien con herramientas como Devtools, GitHub Postman y Render .:technologist:
+* :seedling: Actualmente estoy practicando con python en vsCode :orange_book: y ya he realizado proyectos con :computer: lenguaje SQL y Python, utilizando la libreria matplotlib, pandas, numpy , tambien con herramientas como Devtools, GitHub, Postman y Render .:technologist:
 
 * :heartbeat: Me encanta el hecho de usar la programación a mi antojo, ya sea para crear bases de datos y analizarlas, desarrollar gráficas, además como python es fundamental para desarrollar CGI dentro de las peliculas. :detective:
 
@@ -37,10 +37,6 @@ Disfruto mucho del surf en el mundo tech y entusiasta de comenzar mi carrera pro
 
 ---
 
-### :fire: Mis estadísticas:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gornoleo369&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeNoéSantaOlalla&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Gornoleo369/Gornoleo369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
