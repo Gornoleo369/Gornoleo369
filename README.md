@@ -11,7 +11,7 @@
 
 ### :man_technologist: Sobre mí :
 Disfruto mucho del surf en el mundo tech y entusiasta de comenzar mi carrera profesional como Data Analyst <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-* :telescope: Actualmente estoy en la parte final de mi curso de Data Analyst en el BootCamp TripleTen, ansioso de poder aplicar mis nuevos conocimientos que se complementan con mi titulo de Administrador. :muscle:
+* :telescope: Actualmente me eh graduado como Data Analyst en el BootCamp TripleTen, ansioso de poder aplicar mis nuevos conocimientos que se complementan con mi titulo de Administrador. :muscle:
 
 * :seedling: Actualmente estoy practicando con python en vsCode :orange_book: y ya he realizado proyectos con :computer: lenguaje SQL y Python, utilizando la libreria matplotlib, pandas, numpy , tambien con herramientas como Devtools, GitHub, Postman y Render .:technologist:
 
