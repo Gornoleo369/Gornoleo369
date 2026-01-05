@@ -13,7 +13,7 @@
 Disfruto mucho del surf en el mundo tech y entusiasta de comenzar mi carrera profesional como Data Analyst <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 * :telescope: Actualmente me eh graduado como Data Analyst en el BootCamp TripleTen, ansioso de poder aplicar mis nuevos conocimientos que se complementan con mi titulo de Administrador. :muscle:
 
-* :seedling: Actualmente estoy practicando con python en vsCode :orange_book: y ya he realizado proyectos con :computer: lenguaje SQL y Python, utilizando la libreria matplotlib, pandas, numpy , tambien con herramientas como Devtools, GitHub, Postman y Render .:technologist:
+* :seedling: Actualmente estoy practicando con python en vsCode :orange_book: y ya he realizado proyectos con :computer: lenguaje SQL y Python, utilizando la libreria matplotlib, pandas, numpy , tambien con herramientas como Devtools, GitHub, Postman, Render y Tableau .:technologist:
 
 * :heartbeat: Me encanta el hecho de usar la programación a mi antojo, ya sea para crear bases de datos y analizarlas, desarrollar gráficas, además como python es fundamental para desarrollar CGI dentro de las peliculas. :detective:
 
